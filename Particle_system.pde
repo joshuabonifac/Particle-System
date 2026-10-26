@@ -1,5 +1,5 @@
 // Code taken and inspired from "Visualization with Arduino and Processing"
-// Coude Source: https://www.arduino.cc/education/visualization-with-arduino-and-processing/
+// Code Source: https://www.arduino.cc/education/visualization-with-arduino-and-processing/
 
 int n = 1000; // Number of particles
 
